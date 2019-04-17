@@ -47,7 +47,7 @@ For each currently supported platform example applications are provided.
 
 * **tx-cw**: Example application to show how to generate an RF Continuous Wave transmission.
 
-**Note**: *Each LoRaWAN application example (LoRaMac/classX) includes an implementation of the LoRa-Alliacne; LoRaWAN certification protocol.*
+**Note**: *Each LoRaWAN application example (LoRaMac/classX) includes an implementation of the LoRa-Alliance; LoRaWAN certification protocol.*
 
 **Note**: *The LoRaWAN stack API documentation can be found at: http://stackforce.github.io/LoRaMac-doc/*
 
